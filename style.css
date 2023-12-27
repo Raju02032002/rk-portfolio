@@ -2,9 +2,9 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .banner{
-    background-image: url(../img/bg2.jpg);
+    background-image: url(../img/bg3.jpg);
     background-size:cover;
-    padding: 200px;
+    padding: 230px;
     background-repeat:no-repeat;
 }
 .skills-padding{
